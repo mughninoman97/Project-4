@@ -1,6 +1,7 @@
 # PROJECT NO. 4
 
-This is my Fourth  project of Web Development. In this project I have learnt concepts like targeting specific part of heading. 
+This is my Fourth  project of Web Development. In this project I have learnt concepts like targeting specific part of heading etc. 
+> [Click here for deployed link](https://project-4-by-noman.netlify.app/)
 
 FULL WEBPAGE:
 ![Project4](sc/full.png "proj4 image")
